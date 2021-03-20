@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NameIt-App-React/static/css/main.aaabdcd4.chunk.css",
+    "main.js": "/NameIt-App-React/static/js/main.95c9990c.chunk.js",
+    "main.js.map": "/NameIt-App-React/static/js/main.95c9990c.chunk.js.map",
+    "runtime-main.js": "/NameIt-App-React/static/js/runtime-main.105706b2.js",
+    "runtime-main.js.map": "/NameIt-App-React/static/js/runtime-main.105706b2.js.map",
+    "static/js/2.b06c60d6.chunk.js": "/NameIt-App-React/static/js/2.b06c60d6.chunk.js",
+    "static/js/2.b06c60d6.chunk.js.map": "/NameIt-App-React/static/js/2.b06c60d6.chunk.js.map",
+    "static/js/3.a974e6ae.chunk.js": "/NameIt-App-React/static/js/3.a974e6ae.chunk.js",
+    "static/js/3.a974e6ae.chunk.js.map": "/NameIt-App-React/static/js/3.a974e6ae.chunk.js.map",
+    "index.html": "/NameIt-App-React/index.html",
+    "static/css/main.aaabdcd4.chunk.css.map": "/NameIt-App-React/static/css/main.aaabdcd4.chunk.css.map",
+    "static/js/2.b06c60d6.chunk.js.LICENSE.txt": "/NameIt-App-React/static/js/2.b06c60d6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.105706b2.js",
+    "static/js/2.b06c60d6.chunk.js",
+    "static/css/main.aaabdcd4.chunk.css",
+    "static/js/main.95c9990c.chunk.js"
+  ]
+}
